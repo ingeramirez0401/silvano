@@ -31,7 +31,7 @@ const APP_SHELL = [
     'scripts/custom.js',
     'js/app.js',
     'js/sw-utils.js',
-    'http://localhost:8081/favicon.ico'
+    'favicon.ico'
 ];
 
 //3. declaro el appshell de los inmutables (Librerias y archivos que no seran modificados jamás)
@@ -41,11 +41,11 @@ const APP_SHELL_INMUTABLE = [
     'https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i',
     'fonts/css/fontawesome-all.min.css',
     'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js',
-    'http://localhost:8081/fonts/webfonts/fa-solid-900.woff2',
-    'http://localhost:8081/fonts/webfonts/fa-brands-400.woff2',
-    'http://localhost:8081/fonts/webfonts/fa-solid-900.woff',
-    'http://localhost:8081/fonts/webfonts/fa-solid-900.ttf',
-    'http://localhost:8081/fonts/BambinoNew.ttf',
+    'fonts/webfonts/fa-solid-900.woff2',
+    'fonts/webfonts/fa-brands-400.woff2',
+    'fonts/webfonts/fa-solid-900.woff',
+    'fonts/webfonts/fa-solid-900.ttf',
+    'fonts/BambinoNew.ttf',
 
 ];
 
