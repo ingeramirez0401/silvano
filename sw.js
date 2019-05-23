@@ -32,7 +32,7 @@ const APP_SHELL = [
     'js/app.js',
     'js/sw-utils.js',
     'silvano/favicon.ico',
-    'https://www.youtube.com/embed/videoseries?list=PL0N6gsvlagpJs-NqbypBp7lLqMtWGoybZ'
+    'http://lightwidget.com/widgets/41fde09d30ae5c35b6dca53a1c6b7964.html'
 ];
 
 //3. declaro el appshell de los inmutables (Librerias y archivos que no seran modificados jamás)
