@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/sw.js';
+var swLocation = '/silvano/sw.js';
 
 
 if (navigator.serviceWorker) {
