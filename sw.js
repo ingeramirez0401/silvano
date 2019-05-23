@@ -31,7 +31,7 @@ const APP_SHELL = [
     'scripts/custom.js',
     'js/app.js',
     'js/sw-utils.js',
-    'favicon.ico'
+    'silvano/favicon.ico'
 ];
 
 //3. declaro el appshell de los inmutables (Librerias y archivos que no seran modificados jamás)
