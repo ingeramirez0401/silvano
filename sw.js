@@ -31,7 +31,8 @@ const APP_SHELL = [
     'scripts/custom.js',
     'js/app.js',
     'js/sw-utils.js',
-    'silvano/favicon.ico'
+    'silvano/favicon.ico',
+    'https://www.youtube.com/embed/videoseries?list=PL0N6gsvlagpJs-NqbypBp7lLqMtWGoybZ'
 ];
 
 //3. declaro el appshell de los inmutables (Librerias y archivos que no seran modificados jamás)
